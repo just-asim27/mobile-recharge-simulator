@@ -45,13 +45,13 @@ Download the latest ZIP from the [GitHub Releases page](https://github.com/just-
 ## 📂 Repository Structure
 
 ```
+
 mobile-recharge-simulator/
 ├── src/
 │ ├── main/java/projects/asim/recharge/ [Java source code]
 │ └── test/... [Empty, reserved for unit testing]
 ├── pom.xml [Maven configuration & dependency management] 
 ├── README.md [Project documentation]
-├── LICENSE [License file]
 └── .gitignore [Ignored folders]
 
 ```
@@ -69,3 +69,4 @@ If you’d like to request permission, please contact me at: [hafizmuhammadasimo
 ## 👤 Author
 
 **Asim**
+
